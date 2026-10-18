@@ -7,7 +7,7 @@
 本仓库是**官方 APK 下载页**。源码仓库为私有。
 
 - 功能展示页：<https://luoma.muri.life/>
-- 下载最新版：<https://github.com/AchooLuv/LuoMaAPK/releases/latest>
+- 下载最新版：<https://github.com/AchooLuv/LuoMaTorrentAPK/releases/latest>
 
 ---
 
@@ -100,7 +100,7 @@ sitemap.xml    站点地图
 ```
 
 页面里的版本号、APK 文件名与大小由 `app.js` 在浏览器端调用 GitHub API
-（`/repos/AchooLuv/LuoMaAPK/releases/latest`）自动填充，**发新版本无需改代码**。
+（`/repos/AchooLuv/LuoMaTorrentAPK/releases/latest`）自动填充，**发新版本无需改代码**。
 接口不可用时会退回指向 Releases 页面的固定链接，页面照常可用。
 
 ## 更新日志

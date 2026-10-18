@@ -8,7 +8,7 @@
 (function () {
   'use strict';
 
-  var REPO = 'AchooLuv/LuoMaAPK';
+  var REPO = 'AchooLuv/LuoMaTorrentAPK';
   var API = 'https://api.github.com/repos/' + REPO + '/releases/latest';
   var FALLBACK = 'https://github.com/' + REPO + '/releases/latest';
   var CACHE_KEY = 'luoma.latest.v1';
