@@ -1,6 +1,6 @@
-# 骡马 LuoMa · Android 磁力链播放器
+# 骡马 LuoMaTorrent · Android 磁力链播放器
 
-**骡马（LuoMa）** 是一款 Android 磁力链播放器：粘贴磁力链接或选择 `.torrent` 种子文件即可开始下载，支持**多任务同时下载**、**边下边播**与**断点续传**。
+**骡马（LuoMaTorrent）** 是一款 Android 磁力链播放器：粘贴磁力链接或选择 `.torrent` 种子文件即可开始下载，支持**多任务同时下载**、**边下边播**与**断点续传**。
 
 下载引擎基于 [libtorrent4j](https://github.com/arvidn/libtorrent)（libtorrent-rasterbar），播放基于 ExoPlayer，界面用 React Native 构建，整体为深色霓虹风格。
 
