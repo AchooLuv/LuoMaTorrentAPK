@@ -6,7 +6,6 @@
 
 本仓库是**官方 APK 下载页**。源码仓库为私有。
 
-- 功能展示页：<https://luoma.muri.life/>
 - 下载最新版：<https://github.com/AchooLuv/LuoMaTorrentAPK/releases/latest>
 
 ---
@@ -84,29 +83,6 @@ BT 下载速度完全取决于有多少人在做种。界面上会标记「死�
 | 界面框架 | React Native |
 | 播放器 | ExoPlayer |
 | 支持架构 | arm64-v8a |
-
-## 关于本仓库
-
-仓库根目录同时是官方网站的源码（<https://luoma.muri.life/>）—— 纯静态站点，**无需构建**：
-
-```
-index.html     功能展示页
-changelog.html 更新日志
-styles.css     样式（配色取自 APP 的 colorConfig.ts）
-app.js         分页导航 + 键盘方向键 + 拉取最新版本信息
-assets/        应用图标与分享图
-robots.txt     搜索引擎抓取规则
-sitemap.xml    站点地图
-```
-
-页面里的版本号、APK 文件名与大小由 `app.js` 在浏览器端调用 GitHub API
-（`/repos/AchooLuv/LuoMaTorrentAPK/releases/latest`）自动填充，**发新版本无需改代码**。
-接口不可用时会退回指向 Releases 页面的固定链接，页面照常可用。
-
-## 更新日志
-
-各版本的改动记录见 <https://luoma.muri.life/changelog.html>，
-或每个 Release 的说明。
 
 ## 说明
 
