@@ -172,16 +172,6 @@ BT 下载速度完全取决于有多少人在做种。界面上会标记「死�
 
 不需要。只需要网络权限；Android 13 及以上会请求通知权限用于展示下载进度，拒绝也不影响下载。
 
-## 技术信息
-
-| | |
-|---|---|
-| 底层 | libtorrent-rasterbar |
-| 下载引擎 | libtorrent4j |
-| 界面框架 | React Native |
-| 播放器 | ExoPlayer |
-| 支持架构 | arm64-v8a |
-
 ## 说明
 
 - 每个 Release 的说明里带有 APK 的 MD5 / SHA256，可自行比对
