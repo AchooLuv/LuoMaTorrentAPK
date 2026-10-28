@@ -4,6 +4,27 @@
 
 下载引擎基于 [libtorrent4j](https://github.com/arvidn/libtorrent)（libtorrent-rasterbar），播放基于 ExoPlayer，界面用 React Native 构建，整体为深色霓虹风格。
 
+[![Android](https://img.shields.io/badge/Android-9%2B-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
+[![React Native](https://img.shields.io/badge/React_Native-0.76.5-61DAFB?logo=react&logoColor=white)](https://reactnative.dev/)
+[![React](https://img.shields.io/badge/React-18.3.1-149ECA?logo=react&logoColor=white)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.24-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![libtorrent4j](https://img.shields.io/badge/libtorrent4j-2.1.0--39-5DE2A5)](https://github.com/arvidn/libtorrent)
+[![ExoPlayer](https://img.shields.io/badge/Player-ExoPlayer-FF6B6B)](https://github.com/androidx/media)
+[![arm64-v8a](https://img.shields.io/badge/ABI-arm64--v8a-000000)](https://developer.android.com/ndk/guides/abis)
+
+## 技术栈
+
+| 层 | 技术 |
+|---|---|
+| 界面 | React Native 0.76.5 + React 18.3.1 + TypeScript 5.7 |
+| 导航 | React Navigation 7 |
+| 下载引擎 | libtorrent4j 2.1.0-39（libtorrent-rasterbar） |
+| 播放器 | react-native-video 6.19.3 / ExoPlayer |
+| Android | Kotlin 1.9.24，compileSdk 35 / targetSdk 34 / minSdk 28 |
+| 构建 | Gradle 8.10.2、AGP 8.6 |
+| ABI | arm64-v8a |
+
 本仓库是**官方 APK 下载页**，只保留 README 与截图。源码仓库为私有。
 
 - 下载最新版：<https://github.com/AchooLuv/LuoMaTorrentAPK/releases/latest>
@@ -167,10 +188,13 @@ BT 下载速度完全取决于有多少人在做种。界面上会标记「死�
 
 | | |
 |---|---|
+| 界面框架 | React Native 0.76.5 + React 18.3.1 + TypeScript 5.7 |
+| 导航 | React Navigation 7 |
 | 底层 | libtorrent-rasterbar |
-| 下载引擎 | libtorrent4j |
-| 界面框架 | React Native |
-| 播放器 | ExoPlayer |
+| 下载引擎 | libtorrent4j 2.1.0-39 |
+| 播放器 | react-native-video 6.19.3 / ExoPlayer |
+| Android | Kotlin 1.9.24，compileSdk 35 / targetSdk 34 / minSdk 28 |
+| 构建 | Gradle 8.10.2、AGP 8.6 |
 | 支持架构 | arm64-v8a |
 
 ## 说明
