@@ -13,12 +13,16 @@
 ## 截图
 
 <p align="center">
-  <img src="screenshots/01-onboarding.png" width="220" alt="引导页：一键解析" />
-  <img src="screenshots/02-tasks.png" width="220" alt="任务列表：多任务并行" />
-  <img src="screenshots/03-task-detail.png" width="220" alt="任务详情：文件选择与优先级" />
+  <img src="screenshots/01-onboarding.png" width="210" alt="引导页：一键解析" />
+  <img src="screenshots/02-tasks.png" width="210" alt="主界面：卡片展开、已上传与观看记录" />
+  <img src="screenshots/03-player.png" width="210" alt="视频播放：边下边播" />
+</p>
+<p align="center">
+  <img src="screenshots/04-history.png" width="210" alt="历史记录侧边栏" />
+  <img src="screenshots/05-settings.png" width="210" alt="下载设置" />
 </p>
 
-<p align="center"><sub>一键解析 · 多任务并行 · 文件选择与下载优先级</sub></p>
+<p align="center"><sub>一键解析 · 边下边播 · 多任务并行 · 观看记录 · 历史与设置</sub></p>
 
 ---
 
