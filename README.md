@@ -39,11 +39,11 @@
 
 | | |
 |---|---|
-| 最新版本 | **v0.4.14**（[Releases](../../releases/latest)） |
+| 最新版本 | **v0.4.15**（[Releases](../../releases/latest)） |
 | 架构 | 仅 **arm64-v8a**（其他架构设备无法安装） |
 | 系统要求 | Android 9（API 28）及以上 |
 | 应用大小 | 约 18.6 MB |
-| 版本 | versionName 0.4.14 / versionCode 51 |
+| 版本 | versionName 0.4.15 / versionCode 52 |
 
 > 只支持 arm64-v8a：下载引擎的原生库只提供了这个架构的构建产物。
 
