@@ -1,23 +1,26 @@
-<div align="center">
+<h1 align="center">🐴 骡马 LuoMaTorrent</h1>
 
-# 🐴 骡马 LuoMaTorrent
+<p align="center"><strong>Android 磁力链播放器 · 边下边播 · 小窗播放 · 后台下载</strong></p>
 
-**Android 磁力链播放器 · 边下边播 · 小窗播放 · 后台下载**
+<p align="center">粘贴磁力链或选择 <code>.torrent</code> 种子文件即可开始下载，边下边播，无需等待整部视频下载完成。</p>
 
-粘贴磁力链或选择 `.torrent` 种子文件即可开始下载，边下边播，无需等待整部视频下载完成。
+<p align="center">
+  <a href="https://developer.android.com/"><img alt="Android 9+" src="https://img.shields.io/badge/Android-9%2B-3DDC84?logo=android&logoColor=white"></a>
+  <a href="https://reactnative.dev/"><img alt="React Native 0.76.5" src="https://img.shields.io/badge/React_Native-0.76.5-61DAFB?logo=react&logoColor=white"></a>
+  <a href="https://react.dev/"><img alt="React 18.3.1" src="https://img.shields.io/badge/React-18.3.1-149ECA?logo=react&logoColor=white"></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript 5.7" src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white"></a>
+  <a href="https://kotlinlang.org/"><img alt="Kotlin 1.9.24" src="https://img.shields.io/badge/Kotlin-1.9.24-7F52FF?logo=kotlin&logoColor=white"></a>
+  <a href="https://github.com/arvidn/libtorrent"><img alt="libtorrent4j 2.1.0-39" src="https://img.shields.io/badge/libtorrent4j-2.1.0--39-5DE2A5"></a>
+  <a href="https://github.com/androidx/media"><img alt="ExoPlayer" src="https://img.shields.io/badge/Player-ExoPlayer-FF6B6B"></a>
+  <a href="https://developer.android.com/ndk/guides/abis"><img alt="arm64-v8a" src="https://img.shields.io/badge/ABI-arm64--v8a-000000"></a>
+</p>
 
-[![Android](https://img.shields.io/badge/Android-9%2B-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
-[![React Native](https://img.shields.io/badge/React_Native-0.76.5-61DAFB?logo=react&logoColor=white)](https://reactnative.dev/)
-[![React](https://img.shields.io/badge/React-18.3.1-149ECA?logo=react&logoColor=white)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.24-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![libtorrent4j](https://img.shields.io/badge/libtorrent4j-2.1.0--39-5DE2A5)](https://github.com/arvidn/libtorrent)
-[![ExoPlayer](https://img.shields.io/badge/Player-ExoPlayer-FF6B6B)](https://github.com/androidx/media)
-[![arm64-v8a](https://img.shields.io/badge/ABI-arm64--v8a-000000)](https://developer.android.com/ndk/guides/abis)
-
-[**⬇️ 下载最新版**](https://github.com/AchooLuv/LuoMaTorrentAPK/releases/latest) · [功能](#features) · [安装](#install) · [常见问题](#faq)
-
-</div>
+<p align="center">
+  <a href="https://github.com/AchooLuv/LuoMaTorrentAPK/releases/latest"><strong>⬇️ 下载最新版</strong></a> ·
+  <a href="#features">功能</a> ·
+  <a href="#install">安装</a> ·
+  <a href="#faq">常见问题</a>
+</p>
 
 > 本仓库是**官方 APK 下载页**，只保留 README 与截图；源码仓库为私有。
 
