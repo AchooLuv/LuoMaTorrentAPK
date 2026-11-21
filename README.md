@@ -1,19 +1,6 @@
-<h1 align="center">🐴 骡马 LuoMaTorrent</h1>
+<h1 align="center">骡马 LuoMaTorrent</h1>
 
 <p align="center"><strong>Android 磁力链播放器 · 边下边播 · 小窗播放 · 后台下载</strong></p>
-
-<p align="center">粘贴磁力链或选择 <code>.torrent</code> 种子文件即可开始下载，边下边播，无需等待整部视频下载完成。</p>
-
-<p align="center">
-  <a href="https://developer.android.com/"><img alt="Android 9+" src="https://img.shields.io/badge/Android-9%2B-3DDC84?logo=android&amp;logoColor=white"></a>
-  <a href="https://reactnative.dev/"><img alt="React Native 0.76.5" src="https://img.shields.io/badge/React_Native-0.76.5-61DAFB?logo=react&amp;logoColor=white"></a>
-  <a href="https://react.dev/"><img alt="React 18.3.1" src="https://img.shields.io/badge/React-18.3.1-149ECA?logo=react&amp;logoColor=white"></a>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript 5.7" src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&amp;logoColor=white"></a>
-  <a href="https://kotlinlang.org/"><img alt="Kotlin 1.9.24" src="https://img.shields.io/badge/Kotlin-1.9.24-7F52FF?logo=kotlin&amp;logoColor=white"></a>
-  <a href="https://github.com/arvidn/libtorrent"><img alt="libtorrent4j 2.1.0-39" src="https://img.shields.io/badge/libtorrent4j-2.1.0--39-5DE2A5"></a>
-  <a href="https://github.com/androidx/media"><img alt="ExoPlayer" src="https://img.shields.io/badge/Player-ExoPlayer-FF6B6B"></a>
-  <a href="https://developer.android.com/ndk/guides/abis"><img alt="arm64-v8a" src="https://img.shields.io/badge/ABI-arm64--v8a-000000"></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/AchooLuv/LuoMaTorrentAPK/releases/latest"><strong>⬇️ 下载最新版</strong></a> ·
@@ -22,23 +9,7 @@
   <a href="#faq">常见问题</a>
 </p>
 
-> 本仓库是**官方 APK 下载页**，只保留 README 与截图；源码仓库为私有。
-
 ---
-
-## 📱 当前版本
-
-| | |
-|---|---|
-| 最新版本 | **v0.4.25** |
-| 架构 | 仅 **arm64-v8a** |
-| 系统要求 | Android 9（API 28）及以上 |
-| 版本号 | versionName 0.4.25 / versionCode 62 |
-
-> 只支持 arm64-v8a：下载引擎的原生库只提供该架构的构建产物。
-
----
-
 ## 🖼️ 功能预览
 
 <p align="center">
