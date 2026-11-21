@@ -39,19 +39,13 @@
 
 ---
 
-## 🖼️ 截图
+## 🖼️ 功能预览
 
 <p align="center">
-  <img src="screenshots/01-onboarding.png" width="210" alt="引导页：一键解析" />
-  <img src="screenshots/02-tasks.png" width="210" alt="主界面：任务卡片与观看记录" />
-  <img src="screenshots/03-player.png" width="210" alt="视频播放：边下边播" />
-</p>
-<p align="center">
-  <img src="screenshots/04-history.png" width="210" alt="历史记录侧边栏" />
-  <img src="screenshots/05-settings.png" width="210" alt="下载设置" />
+  <img src="screenshots/00-feature-banner.png" alt="骡马功能预览：边下边播、多任务、小窗播放、后台下载、历史记录" width="100%" />
 </p>
 
-<p align="center"><sub>一键解析 · 边下边播 · 多任务并行 · 历史记录 · 小窗播放</sub></p>
+<p align="center"><sub>边下边播 · 多任务并行 · 小窗播放 · 后台下载 · 历史记录</sub></p>
 
 ---
 
